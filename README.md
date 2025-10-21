@@ -59,7 +59,7 @@ This starts the TypeScript server via TSX using `server.ts`. Configure environme
 Prerequisites:
 - Python 3.10+
 - CUDA-capable GPU for training/inference (recommended)
-- MongoDB available at `mongodb://172.25.80.1:27017` (default in `python/api.py`) or override via `MONGODB_URL` environment variable
+- MongoDB available at `mongodb://127.0.0.1:27017` (default in `python/api.py`) or override via `MONGODB_URL` environment variable
 
 Create and activate a virtual environment (recommended), then install dependencies:
 
