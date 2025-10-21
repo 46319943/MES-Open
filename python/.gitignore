@@ -1,0 +1,7 @@
+__pycache__/
+demo_*/
+fine_tuned_models/
+unsloth_compiled_cache/
+_unsloth_sentencepiece_temp
+demo_results.json
+temp_data
